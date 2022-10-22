@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Greetings, I'm Ilham!
+
+I am a backend engineer who likes to learn how a system or framework works and try to implement it in a project. Well experienced in backend development using PHP and Golang. Interested in learning DevOps and modern software architecture
 
 <!--
 **milhamsuryapratama/milhamsuryapratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
